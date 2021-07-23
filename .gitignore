@@ -1,7 +1,3 @@
-bin\
-obj\
-conio.c
-conio2.h
 "Raiway Reservation System.cbp"
 "Raiway Reservation System.depend"
 "Raiway Reservation System.layout"
